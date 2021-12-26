@@ -10,9 +10,13 @@ this is my conky config . minimal and useful . show disk/cpu and ram bar in desk
 
 
 ### Other information on my desktop in the screenshot below
+
 os type : Archlinux 
+
 DE : xfce4
+
 dock : plank
+
 
 
 ## screenshot 
