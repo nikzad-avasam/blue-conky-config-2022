@@ -3,8 +3,11 @@ this is my conky config . minimal and useful . show disk/cpu and ram bar in desk
 
 ## how to use ? 
 1 - install conky in your systemt. 
+
 2 - copy .conkyrc from this repo to ~/.conkyrc 
+
 3 - run conky in terminal or open conky from your applications list
+
 
 ### Other information on my desktop in the screenshot below
 os type : Archlinux 
